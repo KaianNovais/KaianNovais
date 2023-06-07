@@ -16,7 +16,7 @@ I'm driven by the desire to make a positive impact on the world, whether by impr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaianNovais&theme=radical)](https://github.com/seu_usuário/github-readme-stats)
 
-![Profile Summary For Github](https://profile-summary-for-github.com/user/KaianNovais)
+
 
 
 
