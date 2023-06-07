@@ -14,3 +14,6 @@ I'm driven by the desire to make a positive impact on the world, whether by impr
 - Teacher at FIAP
 - Teacher at XP Educação
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaianNovais)](https://github.com/seu_usuário/github-readme-stats)
+
+
