@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 ### Hi there 👋 My name is Kaian and I'm a programming teacher :rocket:
 
 ### :wrench: Skills:
