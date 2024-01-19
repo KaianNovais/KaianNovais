@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 My name is Kaian and I'm a front-end programming :rocket:
+### Hi there 👋 My name is Kaian and I'm a 🚀 Front-End Developer | Flutter Developer | Crafting Elegant Solutions :rocket:
 
 ### :wrench: Skills:
 - Front-End developer (HTML, CSS, SCSS, Bootstrap, Bulma, Tailwind CSS, ITCSS)
