@@ -8,7 +8,7 @@
 - Frameworks: React, Node.js, Flutter
 - Database: MySQL, MongoDB, Firebase
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaianNovais&theme=radical)](https://github.com/seu_usuário/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiannovais&layout=compact&theme=dark&langs_count=10)
 
 ### :bulb: What motivates me
 I am a Front-End developer with over three years of experience passionate about creating elegant and intuitive user interfaces. My journey in programming is driven by a constant search for innovation and technical excellence, reflected in every project I develop.
